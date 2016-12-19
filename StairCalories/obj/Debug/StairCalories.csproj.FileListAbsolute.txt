@@ -1,0 +1,6 @@
+C:\Users\Orion\Desktop\AcademyPGH\GitHubProjects\StairCalories\StairCalories\bin\Debug\StairCalories.exe.config
+C:\Users\Orion\Desktop\AcademyPGH\GitHubProjects\StairCalories\StairCalories\bin\Debug\StairCalories.exe
+C:\Users\Orion\Desktop\AcademyPGH\GitHubProjects\StairCalories\StairCalories\bin\Debug\StairCalories.pdb
+C:\Users\Orion\Desktop\AcademyPGH\GitHubProjects\StairCalories\StairCalories\obj\Debug\StairCalories.csprojResolveAssemblyReference.cache
+C:\Users\Orion\Desktop\AcademyPGH\GitHubProjects\StairCalories\StairCalories\obj\Debug\StairCalories.exe
+C:\Users\Orion\Desktop\AcademyPGH\GitHubProjects\StairCalories\StairCalories\obj\Debug\StairCalories.pdb
